@@ -1,5 +1,8 @@
 # Ex.No:1a  			Study of Socket Programming
 
+Name:Dinesh V
+
+Reg no:212224040076
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
